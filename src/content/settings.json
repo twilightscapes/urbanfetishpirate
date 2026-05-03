@@ -1,0 +1,25 @@
+{
+  "github": "twilightscapes",
+  "camera": "Canon",
+  "bio": "Groots photos",
+  "showDates": true,
+  "mastodon": "",
+  "author": "Urban Fetish",
+  "logo": {
+    "type": "text",
+    "image": "",
+    "text": ""
+  },
+  "enableSocial": true,
+  "navStyle": "float",
+  "instagram": "",
+  "location": "USA",
+  "title": "Urban Fetish - Photographing Decay",
+  "avatar": "/images/avatar.jpg",
+  "description": "A photography site on the Pirate Social network",
+  "cloudinary": {
+    "enabled": false,
+    "cloudName": "",
+    "apiKey": ""
+  }
+}
